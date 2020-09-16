@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mesquidar/adbsploit/master/adbsploit.png)
+![](https://raw.githubusercontent.com/eduagdl32/adbsploit/master/adbsploit.png)
 
 # ADBSploit
 
